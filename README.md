@@ -204,18 +204,6 @@ Amazon-Review-Sentiment-Analysis/
 │      └── tsne_visualization.png
 │── dataset_link.txt
 ```
-
----
-
-# 🚀 Future Improvements
-
-- TF-IDF Vectorization
-- Word2Vec Embeddings
-- BERT-based Sentiment Analysis
-- Interactive Dashboard using Streamlit
-- Model Deployment on Hugging Face Spaces
-- Real-time Amazon Review Prediction
-
 ---
 
 # 📈 Skills Demonstrated
@@ -247,9 +235,9 @@ This project can help organizations:
 
 # 👨‍💻 Author
 
-**Aditi Dev**
+**Aditi Vashisht**
 
-Senior Sales Executive transitioning into Data Science
+Pharmacist transitioning into Data Science
 
 Skills:
 - Python
